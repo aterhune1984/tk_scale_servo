@@ -34,4 +34,3 @@ s1 = Scale(master,
           command=partial(pwm_set,1))
 s1.pack()  
 mainloop()
-core
